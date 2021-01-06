@@ -1,0 +1,7 @@
+.App {
+  padding: 10px;
+}
+
+p > input {
+  margin-left: 10px;
+}

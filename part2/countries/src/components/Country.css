@@ -1,0 +1,8 @@
+#country {
+  margin-bottom: 10px;
+}
+
+#country > button {
+  margin-left: 10px;
+  cursor: pointer;
+}
